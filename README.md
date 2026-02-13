@@ -33,6 +33,9 @@ Originally created by **Floraline** (MPL 2.0). Ported to TBC Classic Anniversary
 ### Shaman — Totem Bar
 ![Shaman Totem Bar](https://raw.githubusercontent.com/paradosi/FloTotemBar_TBC/main/media/screenshots/shaman-totem-bar.png)
 
+### Hunter — Trap Bar
+![Hunter Trap Bar](https://raw.githubusercontent.com/paradosi/FloTotemBar_TBC/main/media/screenshots/hunter-trap-bar.png)
+
 ### Paladin — Seal Bar
 ![Paladin Seal Bar](https://raw.githubusercontent.com/paradosi/FloTotemBar_TBC/main/media/screenshots/paladin-seal-bar.png)
 
