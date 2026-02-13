@@ -5,6 +5,7 @@
 ## Version: 1.0.0-TBC
 ## Category-enUS: Shaman
 ## OptionalDeps: ButtonFacade, FloAspectBar
+## X-Wago-ID: L6J9BQNv
 ## SavedVariablesPerCharacter: FLOTOTEMBAR_OPTIONS
 FloLib.xml
 FloTotemBar.xml
