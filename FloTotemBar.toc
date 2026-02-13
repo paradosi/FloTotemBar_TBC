@@ -1,0 +1,10 @@
+## Interface: 20505
+## Title: FloTotemBar
+## Author: paradosi-Dreamscythe
+## Notes: Totem, trap, and seal bars with timers. Originally by Floraline.
+## Version: 1.0.0-TBC
+## Category-enUS: Shaman
+## OptionalDeps: ButtonFacade, FloAspectBar
+## SavedVariablesPerCharacter: FLOTOTEMBAR_OPTIONS
+FloLib.xml
+FloTotemBar.xml
